@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://www.nyomkereso.hu/-/sitemap-1.txt
